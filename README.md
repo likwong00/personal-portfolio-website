@@ -2,7 +2,7 @@
 
 Personal website built with React/Typescript + Vite.
 
-Can be viewed here: https://likwong.com
+Can be viewed here: https://likwong00.github.io/
 
 ## Quickstart
 
