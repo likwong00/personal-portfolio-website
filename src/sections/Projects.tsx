@@ -1,11 +1,13 @@
 import { ArrowUpRight } from "lucide-react";
+import project1 from "/project1.png";
+import project2 from "/project2.png";
 
 const projects = [
 	{
 		title: "Multiagent Privacy Awareness Simulation",
 		description:
 			"Final year BSc dissertation project. A multiagent model where we teach agents the idea of privacy by simulating a photo-sharing conumdrum  on social media. Analysis, findings and results are discussed in the research paper.",
-		image: "/project1.png",
+		image: project1,
 		tags: ["Python", "AI", "Data Analysis"],
 		link: "https://github.com/likwong00/PrivacyModel",
 	},
@@ -13,7 +15,7 @@ const projects = [
 		title: "Linking Galleries Map App",
 		description:
 			"A web app with a map view of all the museum pieces from the art meseum M Shed in Bristol. Showcasing each museum piece of interest with their original location along with description. A Java/Spring backend is also implemented with APIs for this data.",
-		image: "/project2.png",
+		image: project2,
 		tags: ["React", "JavaScript", "Java", "Spring"],
 		link: "https://github.com/likwong00/LinkingGalleries",
 	},
